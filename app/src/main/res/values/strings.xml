@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyShare</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="title_activity_share">ShareActivity</string>
+
+    <string name="servicedesc">MyShare NFC Service</string>
+    <string name="aiddescription">This service makes possible to share a URL via NFC</string>
+</resources>
